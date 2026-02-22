@@ -3,10 +3,10 @@ jaffle_shop:
   outputs:
     dev:
       type: snowflake
-      account: IG63443
+      account: VEFTHLQ-IG63443
       user: Jayasree
       password: Krishnakumari@404
-      role: ADMIN_JYRV
+      role: ACCOUNTADMIN
       warehouse: JYRV
       database: EMP
       schema: HR
