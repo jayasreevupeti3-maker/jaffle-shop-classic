@@ -6,7 +6,7 @@ jaffle_shop:
       account: VEFTHLQ-IG63443
       user: Jayasree
       password: Krishnakumari@404
-      role: ACCOUNTADMIN
+      role: ADMIN_JYRV
       warehouse: JYRV
       database: EMP
       schema: HR
