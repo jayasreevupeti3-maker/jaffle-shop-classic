@@ -1,0 +1,14 @@
+jaffle_shop:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: IG63443
+      user: Jayasree
+      password: Krishnakumari@404
+      role: ADMIN_JYRV
+      warehouse: JYRV
+      database: EMP
+      schema: HR
+      threads: 1
+      client_session_keep_alive: false
